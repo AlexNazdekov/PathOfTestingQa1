@@ -1,0 +1,14 @@
+id
+Title/Summary (краткое описание что?где?когда?)
+Проект (название проекта, программы, приложения, в котором выявлен баг)
+Версия (точная версия ПО, содержащая баг)
+Severity (blocked, critical, major, minor, trivial)
+Priority (high, medium, low)
+Статус (открыт, в работе, исправлен, отклонен, отсрочен, переоткрыт, закрыт)
+Автор
+Исполнитель
+Steps to reproduce
+Actual result
+Expected result
+Attachments (скриншоты, ссылки, логи, скринкаст)
+
